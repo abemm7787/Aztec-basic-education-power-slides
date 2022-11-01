@@ -1,0 +1,52 @@
+.box1{
+   
+    border-style: solid;
+    border-color: blue;
+    height: 15vh;
+}
+
+.box2{
+   height: 15vh;
+    border-style: solid;
+    border-color: red;
+}
+.box3{
+   height: 15vh;
+    border-style: solid;
+    border-color: green;
+}
+
+
+.boldText{
+    font-weight: bold;
+
+}
+
+
+
+
+.arrow {
+  border-right:30px solid #aaa;
+  height: 70px;
+  position: absolute;
+
+  transform: rotate(90deg);
+color:blue;
+float:left
+}
+
+.arrow:after {
+  
+  content: "";
+  width: 0; 
+	height: 0; 
+	border-left: 30px solid transparent;
+	border-right: 30px solid transparent;
+	border-bottom: 20px solid #aaa;
+  position: absolute;
+  overflow: auto;
+  top: -18px;
+  left: -14px;
+  float:left;
+
+}

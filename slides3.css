@@ -1,0 +1,60 @@
+.reading{
+    background-color: rgba(62, 30, 91, 0.303);
+
+    
+    
+}
+
+.boldText{
+font-weight: bold;
+
+}
+
+
+.textWidth{
+   background-color: blue;
+   width: 240vh;
+
+  }
+
+
+
+  .picuture{
+    
+    margin-left: 10vh;
+    height: 35vh;
+ 
+
+  }
+
+
+ .tinyText{
+margin-left: 10px;
+    
+ }
+
+ .text-info{
+    margin-left: 10px;
+ }
+
+
+
+ .squamousText{
+    margin-left: 4vh;
+
+
+ }
+
+
+.text-Info2{
+    margin-right: 40vh;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+

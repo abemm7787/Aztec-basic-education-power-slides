@@ -1,0 +1,40 @@
+
+body{
+    width:170vh;
+
+}
+
+
+.firstParagraph{
+    border: solid;
+    border-color: antiquewhite;
+    height: 100vh;
+    margin-left:5vh; 
+  
+overflow: hidden;
+
+    
+}
+
+
+
+.title{
+  padding-left: 4vh;
+font-weight: bold;
+font-size: xx-large;
+
+margin-left: 10vh;
+}
+
+
+.rowBoxes{
+  /* background-color: blueviolet; */
+
+  width: 80vh;
+  
+
+
+}
+
+
+
